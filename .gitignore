@@ -1,0 +1,24 @@
+# Java/Maven build output
+/out/
+/target/
+/build/
+/dist/
+*.class
+*.jar.original
+hs_err_pid*
+replay_pid*
+
+# IDE and operating-system files
+.idea/
+.vscode/
+*.iml
+.DS_Store
+Thumbs.db
+.classpath
+.project
+.settings/
+
+# Local test and temporary data
+*.tmp
+*.log
+*.bak
